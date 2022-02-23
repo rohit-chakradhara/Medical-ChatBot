@@ -1,0 +1,73 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Rohit Dubey
+bot : - bye. thanks for using our service
+user : Hi
+bot : - Hello. How are you feeling today?
+user : Not well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I have cold
+bot : - You should take a sudafed tablet after your meal.
+user : OK I will take that
+bot : - let me know if you are feeling better after having benadryl.
+user : I took benadryl and didnt feel well.
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I have cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : Ok I will take that
+bot : - let me know if you are feeling better after having benadryl.
+user : No, i am still not felling better after having benadryl.
+bot : - Ok, its not just a normal cough, you should consult a doctor.
+user : Can u book an appointment for me.
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : Rohit: 24/6/2021: Dr Chakra: kalyani
+bot : - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+user : Yes
+bot : - Bye. Nice talking to you
+user : Bye
+bot : - Bye. Nice talking to you
+user : Hi
+bot : - Hello. How are you feeling today?
+user : Jaa be lavde
+bot : - bye. thanks for using our service
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : Rohit
+bot : - Hello. How are you feeling today?
+user : Not well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : Rohit
+bot : - Hello. How are you feeling today?
+user : Not wlll
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : Rohit
+bot : - Hello. How are you feeling today?
+user : hsismsd
+bot : - Hello. How are you feeling today?
+user : jpisds,
+bot : - okay. your age has been stored. Which city do you live in?
+user : Rohit
+bot : - Hello. How are you feeling today?
+user : Good
+bot : - I'm doing well. How are you feeling today?
+user : Not well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I feel weak, shivering,death
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : okay
+bot : - let me know if you are feeling better after having benadryl.
+user : Rohit
+bot : - Hello. How are you feeling today?
+user : Not well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : My chest is aching.
+bot : - Okay, this is a symptom of cough , do you have cough?
+user : yes i have cough.
+bot : - You should take a spoon full of benadryl after your meal.
+user : Ok, i will take the benadryl.
+bot : - let me know if you are feeling better after having benadryl.
+user : I took the dose of benadryl.
+bot : - Good, now take some rest and then let me know if you are feeling better after having benadryl.
+user : No, i am still not felling better after having benadryl.
+bot : - Ok, its not just a normal cough, you should consult a doctor.
+user : Can u book an appointment for me.
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'

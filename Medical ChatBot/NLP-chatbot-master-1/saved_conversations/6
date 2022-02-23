@@ -1,0 +1,27 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Rohit
+bot : - Hello. How are you feeling today?
+user : Not well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I have fever, fatigue and stomach pain
+bot : - symptom noted. Migraines tend to be recurrent, and each attack may last up to 3 days. would you like to talk to a doctor?
+user : Yes
+bot : - Bye. Nice talking to you
+user : Hi
+bot : - Hello. How are you feeling today?
+user : Very well
+bot : - Hi. How are you feeling today?
+user : Unwell
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : Diarrhea, Abdominal pain, restlessness
+bot : - I am interested in helping you medically!
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : but why
+bot : - bye. thanks for using our service
+user : bye
+bot : - Bye. Nice talking to you
+user : bye
+bot : - Bye. Nice talking to you
